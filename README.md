@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy Julián Augusto Leguizamón
 
-🎸 Desarrollador en formación | 💻 Apasionado por Python y la tecnología | ⚡ Amante del rock y la guitarra
+🎸 Analista de sistemas en formación | 💻 Apasionado por Python y la tecnología | ⚡ Amante del rock y la guitarra
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎯 Busco crecer como desarrollador backend o fullstack.  
+- 🎯 Busco crecer en el rubro IT.  
 - 🧠 Actualmente aprendiendo **Python**, **bases de datos**, y **Git/GitHub**.  
 - 🎸 En mi tiempo libre, improviso con la guitarra o hago proyectos personales.
 
