@@ -17,7 +17,7 @@
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
 | [GestorPy](https://github.com/julegui13/GestorPy) | Sistema de gestión para negocios. | Python, CSV, ReportLab |
-| [MiPortfolioWeb](https://github.com/F4K3ll/MiPortfolioWeb) | Página web personal con HTML y CSS. | HTML, CSS |
+| [MiPortfolioWeb](https://github.com/F4K3ll/Mi-Portafolio) | Página web personal con HTML y CSS. | HTML, CSS |
 
 ---
 
